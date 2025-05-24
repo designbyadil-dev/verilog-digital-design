@@ -23,7 +23,6 @@
 // Revision 0.02 - Optimized to use array indexing (21.05.2025)
 //////////////////////////////////////////////////////////////////////////////////
 
-
 module mux4to1(
     input [3:0] D,  // 4 input lines
     input [1:0] S,   // 2 select lines
@@ -31,3 +30,8 @@ module mux4to1(
 );
     assign Y = D[S];
 endmodule
+
+
+
+
+
