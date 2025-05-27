@@ -64,7 +64,9 @@ To use any of these designs:
 
 
 ## 📧 Contact
-- GitHub: [@designbyadil-dev](https://github.com/designbyadil-dev)
+- GitHub: [@designbyadil-dev](https://github.com/designbyadil-dev)  
+- Email: [kushamsn@gmail.com](mailto:kushamsn@gmail.com)
+
 
 
 ---
