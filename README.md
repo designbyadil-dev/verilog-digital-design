@@ -12,7 +12,6 @@ Welcome to my Verilog Digital Design repository! This collection contains variou
 - [Directory Structure](#-directory-structure)
 - [Getting Started](#-getting-started)
 - [Tools Required](#-tools-required)
-- [License](#-license)
 - [Contact](#-contact)
 
 ## 🌟 Introduction
@@ -64,9 +63,6 @@ To use any of these designs:
   - GTKWave
   - ModelSim Wave Viewer
 
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📧 Contact
 - GitHub: [@designbyadil-dev](https://github.com/designbyadil-dev)
