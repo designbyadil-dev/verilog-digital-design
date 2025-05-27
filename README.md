@@ -50,7 +50,6 @@ To use any of these designs:
 
 ## 🔧 Tools Required
 - **Simulation Tools**:
-  - [Icarus Verilog](http://iverilog.icarus.com/)
   - [ModelSim](https://www.mentor.com/products/fv/modelsim/)
   - [XSIM (Vivado)](https://www.xilinx.com/products/design-tools/vivado.html)
   
