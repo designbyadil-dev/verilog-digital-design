@@ -45,9 +45,6 @@ module tb_mux4to1();
         .Y(Y)
     );
     
-    // Clock generation (not strictly needed for combinational logic)
-    reg clk = 0;
-    always #5 clk = ~clk;
     
     // Test sequence
     initial begin
