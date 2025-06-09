@@ -5,28 +5,8 @@
 // Create Date: 21.05.2025 
 // Design Name: 4-to-1 Multiplexer Testbench
 // Module Name: tb_mux4to1
-// Target Devices: Simulation (All Platforms)
 // Tool Versions: Vivado 2023.2
 // Description: 
-//    Self-verifying testbench for 4-to-1 multiplexer module (mux4to1).
-//    Features:
-//    - Tests all fundamental input combinations:
-//      * Individual channel verification
-//      * Alternating data patterns (0101, 1010)
-//      * Edge cases (all ones, all zeros)
-//      * Random stimulus validation
-//    - Generates waveform dump for visual debugging
-//    - Displays real-time test results with expected values
-//    - Clock generation for timing reference (optional)
-// 
-// Dependencies: mux4to1.v (Unit Under Test)
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-//    - Tests cover 100% of select line combinations
-//    - Output matches expected results in all test cases
-//    - Waveform file: mux4to1.vcd (view with GTKWave)
 //////////////////////////////////////////////////////////////////////////////////
 
 
