@@ -46,7 +46,7 @@ To use any of these designs:
    cd verilog-digital-design/combinational_logic_design/mux4to1
    ```
 
-3. Compile and simulate using your preferred Verilog simulator (see Tools section).
+3. Simulate using your preferred Verilog simulator (see Tools section).
 
 ## 🔧 Tools Required
 - **Simulation Tools**:
